@@ -2,10 +2,6 @@
 
 TransitOps is a demo-ready transport operations platform for logistics teams. It replaces manual spreadsheets with a single command center for fleet registry, driver compliance, trip dispatch, maintenance, fuel, expenses, analytics, reports, notifications, and audit activity.
 
-## Problem Statement
-
-Logistics operators need to prevent vehicle conflicts, driver conflicts, expired-license dispatches, unavailable-vehicle assignments, missed maintenance, poor fuel tracking, and inaccurate cost visibility. TransitOps centralizes those workflows with server-side validation and transactional state changes.
-
 ## Features
 
 - Email/password authentication with role-based access control.
